@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 langchain
 langsmith
 langchain-community
 openai
 python-dotenv
 streamlit
+=======
+langchain
+langsmith
+langchain-community
+openai
+python-dotenv
+streamlit
+>>>>>>> 4a0b993fc67938f96acd4133b45b6df51f5b036a
